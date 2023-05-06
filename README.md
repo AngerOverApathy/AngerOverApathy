@@ -1,6 +1,10 @@
 # 💫 About Me:
 My name is Jessica, and I'm a software developer based out of Sacramento, CA. I love creating fluid, functional programs that prioritize user experience and accessibility.
 
+For nearly a decade I have served the community as a respiratory therapist. During that time, I had the privilege of watching healthcare systems switch from paper charting to electronic charting, and witnessed firsthand the way tech simplified and enhanced the way we cared for patients.
+Despite the distinct improvements tech brought to patient care, as a daily user of healthcare applications, I found that multiple electronic systems were convoluted and unintuitive.
+I started coding with HTML and CSS from a young age, and knew that if I expanded my skill set, I could be a part of the solution to refine the client side of applications and further improve patient care, and that these skills could be used beyond the intersection of healthcare and tech.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jessica-faith-versoza-042a1a8b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@jfverse) 
