@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Jessica, and I'm a software developer based out of Sacramento, CA. I love creating fluid, functional programs that prioritize user experience and accessibility.
+My name is Sica, and I'm a software developer based out of Sacramento, CA. I love creating fluid, functional programs that prioritize user experience and accessibility.
 
 For nearly a decade I have served the community as a respiratory therapist. During that time, I had the privilege of watching healthcare systems switch from paper charting to electronic charting, and witnessed firsthand the way tech simplified and enhanced the way we cared for patients.
 Despite the distinct improvements tech brought to patient care, as a daily user of healthcare applications, I found that multiple electronic systems were convoluted and unintuitive.
