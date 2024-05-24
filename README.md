@@ -1,9 +1,13 @@
 # 💫 About Me:
 My name is Sica, and I'm a software developer based out of Sacramento, CA. I love creating fluid, functional programs that prioritize user experience and accessibility.
 
-For nearly a decade I have served the community as a respiratory therapist. During that time, I had the privilege of watching healthcare systems switch from paper charting to electronic charting, and witnessed firsthand the way tech simplified and enhanced the way we cared for patients.
-Despite the distinct improvements tech brought to patient care, as a daily user of healthcare applications, I found that multiple electronic systems were convoluted and unintuitive.
-I started coding with HTML and CSS from a young age, and knew that if I expanded my skill set, I could be a part of the solution to refine the client side of applications and further improve patient care, and that these skills could be used beyond the intersection of healthcare and tech.
+As a resourceful and accomplished full-stack developer, I bring a unique blend of technical expertise and healthcare experience to the world of software engineering. With a strong foundation in HTML, CSS, JavaScript, SQL, Node.js, Express.js, React, jQuery, MySQL, and NoSQL, I have a proven ability to tackle complex development challenges and deliver exceptional results within tight deadlines.
+
+Before transitioning into software development, I accumulated nearly a decade of experience as a respiratory therapist. In this role, I gained extensive expertise with electronic health records (EHRs), health tech, and wearable health technology. My responsibilities included effective communication with multidisciplinary teams and translating complex medical terminology into comprehensible information for patients and their families. This experience honed my critical thinking skills and ability to perform under pressure—attributes that are highly beneficial in the dynamic field of software development.
+
+Currently, in my role within health informatics, I have further refined my skills by translating end user issues to vendors and vice versa, troubleshooting software bugs, and providing comprehensive reporting. This position has deepened my understanding of the technological needs within healthcare, enabling me to ensure that solutions are both effective and user-friendly.
+
+My diverse background allows me to approach problems from multiple perspectives, bringing innovative solutions to the table. I thrive in demanding environments and excel at implementing decisive problem-solving procedures to overcome highly challenging issues. Whether working independently or as part of a collaborative team, I am committed to delivering high-quality software that meets and exceeds client expectations.
 
 
 ## 🌐 Socials:
